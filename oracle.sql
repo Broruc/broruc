@@ -111,5 +111,5 @@ BEGIN
 END;
 /
 UPDATE elevi
-SET nume = 'Ion Castan'
+SET nume = 'Ion Prapastie'
 WHERE cod = 31;
